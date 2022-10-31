@@ -39,19 +39,14 @@ function Profile() {
               </div>
             </div>
             
-            <h1 id='twitter' className='text-center font-bold text-2xl sm:text-4xl'>Onatunde Bolaji</h1>
-            <h1 id='slack' className='hidden text-center font-bold text-2xl sm:text-4xl'>Bsonat</h1>
+            <h1  className='text-center font-bold text-2xl sm:text-4xl'>Onatunde Bolaji</h1>
+            {/* <h1 id='slack' className='hidden text-center font-bold text-2xl sm:text-4xl'>Bsonat</h1> */}
           
           </div>
         </div>
                 
       </div>
-      <div className='w-[80%] mx-auto'>
-        <Button id='twitter' url='https://twitter.com/bhinary_jay' description='Twitter Link' />
-      </div>
-      <div className='hidden'>
-        <Button id='slack' url='https://app.slack.com/client/T042F7V19Q8/C041V6WKAUS/rimeto_profile/U048S5AJA7K' description='Slack Link' />
-      </div>
+     
       
       
     </div>
